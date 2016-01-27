@@ -1,13 +1,22 @@
 # ProjectJelly
 
-This project was the work of team FunnyFactory for the Creative Jam of January 2016 held at the NAD Centre in partnership with Poly Games, Ubisoft and Ludia.
+This project was the work of team FunnyFactory for the Creative Jam of January 2016 held at the NAD Centre in partnership with Poly Games. Special thanks to our sponsors: Ubisoft, Ludia, Banque Nationale and Hibernum.
 
 ## Contributors:
 
-- Pascal "pascaloon" Asselin [Programmer]
-- Guillaume Côté [2D/3D artist]
-- Pascal "dagp06" Dagenais [Programmer]
-- Xavier Gamache [2D/3D artist]
-- Vincent "LordBop" Hallé [Programmer]
-- Nina Marchand [2D/3D artist]
-- Julien "julien017" Tremblay [Programmer]
+Programmers:
+- Pascal "pascaloon" Asselin
+- Pascal "dagp06" Dagenais
+- Vincent "LordBop" Hallé
+- Julien "julien017" Tremblay
+
+Artists:
+- Guillaume Côté
+- Xavier Gamache
+- Nina Marchand
+
+Sound Designer:
+- Medhat Hanbali
+
+
+
