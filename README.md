@@ -1,22 +1,18 @@
-# ProjectJelly
+# Project Jelly
 
-This project was the work of team FunnyFactory for the Creative Jam of January 2016 held at the NAD Centre in partnership with Poly Games. Special thanks to our sponsors: Ubisoft, Ludia, Banque Nationale and Hibernum.
+### Description
+You are in Santa's factory and you need to make the specified toy using the pieces that are being fed to you on the threadmills and the defective robotic arms that you control. Good luck, you'll need it.
 
-## Contributors:
-
-Programmers:
-- Pascal "pascaloon" Asselin
-- Pascal "dagp06" Dagenais
-- Vincent "LordBop" Hallé
-- Julien "julien017" Tremblay
-
-Artists:
+### Collaborators
+- Pascal Asselin [pascaloon]
+- Pascal Dagenais [dagp06]
+- Vincent Hallé [LordBop]
+- Julien Tremblay [Julien017]
 - Guillaume Côté
 - Xavier Gamache
 - Nina Marchand
-
-Sound Designer:
 - Medhat Hanbali
+
 
 
 
